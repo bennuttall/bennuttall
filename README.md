@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**bennuttall/bennuttall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I work as software engineer at the [BBC](https://github.com/bbc) building prototypes in [BBC News Labs](https://bbcnewslabs.co.uk/)
+- I like Python, Linux and all things open source
+- I previously worked at [Raspberry Pi](https://www.raspberrypi.org/)
+- I created the projects [piwheels](https://github.com/piwheels/piwheels) and [gpiozero](https://github.com/gpiozero/gpiozero)
+which I work on with [Dave Jones](https://github.com/waveform80)
+- Find me on Twitter: [@ben_nuttall](https://twitter.com/ben_nuttall)
+- Check out my website and blog, and see my contact information: [bennuttall.com](https://bennuttall.com/)
+- I also write at:
+  - [tooling.bennuttall.com](https://tooling.bennuttall.com/)
+  - [opensource.com](https://opensource.com/user_articles/26767/26767)
+- I previously wrote at:
+  - [raspberrypi.org](https://www.raspberrypi.org/blog/author/bennuttall/)

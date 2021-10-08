@@ -11,4 +11,5 @@ which I work on with [Dave Jones](https://github.com/waveform80)
   - [tooling.bennuttall.com](https://tooling.bennuttall.com/)
   - [opensource.com](https://opensource.com/user_articles/26767/26767)
 - I previously wrote at:
+  - [raspberrypi.com](https://www.raspberrypi.com/news/author/bennuttall/)
   - [raspberrypi.org](https://www.raspberrypi.org/blog/author/bennuttall/)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I work as software engineer at the [BBC](https://github.com/bbc) building prototypes in [BBC News Labs](https://www.bbc.co.uk/rdnewslabs/)
+- I work as software engineer at the [BBC](https://github.com/bbc)
 - I like Python, Linux and all things open source
 - I previously worked at [Raspberry Pi](https://www.raspberrypi.org/)
 - I created the projects [piwheels](https://github.com/piwheels/piwheels) and [gpiozero](https://github.com/gpiozero/gpiozero)
